@@ -13,7 +13,8 @@ print(b)
 
 
 #extra part b: write this in one line of code -> review list comprehesion ? 
-
+# c = [expression for item in list if conditional]
+c = [x for x in a if x < 5] 
 
 #extra part c: get an input and print out numbers that are less than input of array
 
