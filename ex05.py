@@ -10,3 +10,4 @@ print('List One: ', listOne)
 print('List Two: ', listTwo)
 print('No duplicates: ', list(set(listOne) | set(listTwo)))
 
+#extra 2: do it with one line of code   ?????
